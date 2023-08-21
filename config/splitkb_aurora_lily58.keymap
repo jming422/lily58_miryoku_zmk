@@ -6,9 +6,11 @@
 #include "../miryoku/miryoku.dtsi"
 
 &left_encoder {
-    resolution = <2>;
+    steps = <32>;
+    a-gpios = <&pro_micro 4 GPIO_PULL_UP>;
+    b-gpios = <&pro_micro 5 GPIO_PULL_UP>;
 };
 
 &right_encoder {
-    resolution = <2>;
+    steps = <32>;
 };
