@@ -1,5 +1,6 @@
 // Copyright 2022 Manna Harbour
 // https://github.com/manna-harbour/miryoku
+// Customizations Copyright 2023 Jonathan Ming
 
 #if !defined (MIRYOKU_LAYOUTMAPPING_LILY58)
 

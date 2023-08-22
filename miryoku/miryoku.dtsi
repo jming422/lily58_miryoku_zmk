@@ -1,5 +1,6 @@
 // Copyright 2022 Manna Harbour
 // https://github.com/manna-harbour/miryoku
+// Customizations Copyright 2023 Jonathan Ming
 
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
